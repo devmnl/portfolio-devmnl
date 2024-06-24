@@ -1,0 +1,26 @@
+.skills {
+    padding: 80px;
+    margin-top: 60px;
+    margin-bottom: 300px;
+   
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+  
+  .skills-category {
+    margin-bottom: 20px;
+  }
+  
+  .skills-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .skills-icons img {
+    height: 70px;
+    width: 50px;
+  }
+  

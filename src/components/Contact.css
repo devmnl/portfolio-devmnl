@@ -1,0 +1,21 @@
+.contact {
+    padding: 20px;
+    margin-top: 60px;
+    margin-bottom: 220px;
+    display: flex;
+    flex-direction: column; /* Organiza os elementos em uma coluna */
+    align-items: center; /* Centraliza os elementos horizontalmente */
+  }
+
+
+  
+  .contact-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .contact-icons img {
+    height: 50px;
+  }
+  
