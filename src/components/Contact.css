@@ -18,4 +18,10 @@
   .contact-icons img {
     height: 50px;
   }
+
+  @media (max-width: 768px) {
+    .skills {
+      padding: 10px;
+    }
+  }
   

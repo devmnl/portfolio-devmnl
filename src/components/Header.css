@@ -66,6 +66,12 @@
     transform: scaleX(1); /* Aumenta a largura ao passar o mouse */
     transform-origin: bottom left;
   }
+
+  @media (max-width: 768px) {
+    .skills {
+      padding: 10px;
+    }
+  }
   
   
   
