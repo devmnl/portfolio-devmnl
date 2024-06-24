@@ -5,6 +5,8 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import { Link, Element } from 'react-scroll';
 
+
+
 function App() {
   return (
     <div className="App">
